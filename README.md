@@ -12,7 +12,13 @@ I'm a passionate software developer with experience in web development and a str
 - 🌐 Web Development Intern with experience in UI/UX design, CI-CD,Recoil state management, and GPT-3 models.
 - 💻 Software Trainee specializing in interactive applications, Data Structures, and Algorithms.
 - 🏆 Led a coding competition team and achieved high ratings on platforms like LeetCode and CodeChef.
-- 🌟 Proficient in Python, C/C++, SQL, JavaScript, and frameworks such as React and Node.js.
+- 🌟 My Tech Stack:
+  - React
+  - JavaScript
+  - MongoDB
+  - Node.js
+  - SQL
+  - C/C++
 
 ## Featured Projects
 
@@ -20,14 +26,14 @@ Here are some of the projects I've worked on:
 
 ### E-Commerce Web Application
 - Description: An advanced e-commerce platform with a user-friendly interface.
-- [GitHub Repo](URL_TO_REPO)
+- [GitHub Repo](https://github.com/zain2201/shopHere_sanity_stripe)
 - Technologies: React, Node.js, Express, MongoDB
 
 
 
 ### COVID-19 Statistics Website
 - Description: A website that provides up-to-date COVID-19 statistics.
-- [GitHub Repo](URL_TO_REPO)
+- [GitHub Repo](https://github.com/zain2201/Covid-updater)
 - Technologies: HTML, CSS, JavaScript
 
 ## Get in Touch
