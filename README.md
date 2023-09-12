@@ -43,7 +43,6 @@ Here are some of the projects I've worked on:
 - Email: zain90651@gmail.com
 
 
-ing.
 
 ## License
 
